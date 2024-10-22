@@ -1,6 +1,6 @@
 # Capstone CSE-306: Scheduling Progress Assessments
 
-![Logo](https://example.com/logo.png) <!-- Replace with your own image link -->
+![Logo](./Assets/PASCLogo.png)
 
 Welcome to the **Diplomacy Lab Progess Assessment Scheduling Calendar** project! This tool is designed to help streamline the scheduling of progress assessments for projects.
 
@@ -11,10 +11,8 @@ Welcome to the **Diplomacy Lab Progess Assessment Scheduling Calendar** project!
 1. [About the Project](#about-the-project)
 2. [Contributors](#contributors)
 3. [Features](#features)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [License](#license)
-7. [Contact](#contact)
+4. [Use Cases](#use-cases)
+5. [Class Diagram](#class-diagram)
 
 ---
 
@@ -47,18 +45,17 @@ The Program Assessment Scheduling Calendar Application (PASC), developed for The
 
 ## Use Cases
 
-![Use Case 1](https://example.com/logo.png) <!-- Replace with your own image link -->
-![Use Case 2](https://example.com/logo.png) <!-- Replace with your own image link -->
-![Use Case 3](https://example.com/logo.png) <!-- Replace with your own image link -->
-![Use Case 4](https://example.com/logo.png) <!-- Replace with your own image link -->
-![Use Case 5](https://example.com/logo.png) <!-- Replace with your own image link -->
+![Use Case 1](./Assets/UseCase1.jpeg)
+![Use Case 2](./Assets/UseCase2.png)
+![Use Case 3](./Assets/UseCase3.png)
+![Use Case 4](./Assets/UseCase4.png)
 
 
 ---
 
 ## Class Diagram
 
-![Class Diagram](https://example.com/logo.png) <!-- Replace with your own image link -->
+![Class Diagram](./Assets/ClassDiagram.png)
 
 ---
 
