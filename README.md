@@ -48,13 +48,13 @@ The Program Assessment Scheduling Calendar Application (PASC), developed for The
 ## Use Cases
 
 <div align="center">
-  Case 1: Scheduling An Assessment<br>
+  <br>Case 1: Scheduling An Assessment<br>
   <img src="./Assets/UseCase1.jpeg" alt="Use Case" width="500"/>
-  Case 2: Generating A Report<br>
+  <br>Case 2: Generating A Report<br>
   <img src="./Assets/UseCase2.png" alt="Use Case" width="500"/>
-  Case 3: Rescheduling An Assessment<br>
+  <br>Case 3: Rescheduling An Assessment<br>
   <img src="./Assets/UseCase3.png" alt="Use Case" width="500"/>
-  Case 4: Student Emailer<br>
+  <br>Case 4: Student Emailer<br>
   <img src="./Assets/UseCase4.png" alt="Use Case" width="500"/>
 </div>
 ---
